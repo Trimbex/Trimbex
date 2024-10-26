@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/trimbex_" target="blank"><img src="https://img.shields.io/twitter/follow/trimbex_?logo=twitter&style=for-the-badge" alt="trimbex_" /></a> </p>
 
-- 🔭 I’m currently working on [Restaurant Reservation App](https://github.com/Trimbex/Hello-Kitchen)
+- 🔭 I’m currently working on [Restaurant Online Ordering App](https://github.com/Trimbex/Hello-Kitchen)
 
 - 🌱 I’m currently learning **AI and Web Development**
 
