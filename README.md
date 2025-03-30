@@ -115,9 +115,9 @@
   <a href="#">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Trimbex&repo=DHCP-Server&theme=react&border_color=61dafb&border_radius=10" alt="DHCP Server" />
   </a>
-  <a href="#">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Trimbex&repo=Gen-AI-Powered-AR-App&theme=react&border_color=61dafb&border_radius=10" alt="AR App" />
-  </a>
+<a href="https://github.com/Trimbex/Gen-AI-Powered-AR-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trimbex&repo=Gen-AI-Powered-AR-App&theme=react&border_color=61dafb&border_radius=10" alt="Gen-AI Powered AR App" />
+</a>
   <a href="#">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Trimbex&repo=Internet-Cafe&theme=react&border_color=61dafb&border_radius=10" alt="Internet Cafe" />
   </a>
