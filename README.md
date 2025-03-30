@@ -23,9 +23,41 @@
 - 🔬 Passionate about bridging software and hardware worlds
 - 🤝 I'm looking to collaborate on innovative projects
 - 📩 Reach me at: **saifhatem02@gmail.com**
-- ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes
+  <!-- - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=Tech%20Stack&fontSize=0" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&text=Tech%20Stack&fontSize=0" width="100%"> 
+
+
+## 📌 Featured Projects
+
+<div align="center">
+
+  <a href="https://github.com/Trimbex/funds-haven">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trimbex&repo=funds-haven&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Trimbex/DHCP-Server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trimbex&repo=DHCP-Server&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Trimbex/Gen-AI-Powered-AR-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trimbex&repo=Gen-AI-Powered-AR-App&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Trimbex/Internet-Cafe">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trimbex&repo=Internet-Cafe&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Trimbex/Interview-Questions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trimbex&repo=Interview-Questions&theme=tokyonight&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Mohamed-Ahmed-Esmat/PeakShift-Database-Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohamed-Ahmed-Esmat&repo=PeakShift-Database-Project&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+
 
 ## 🚀 Tech Stack
 
@@ -128,14 +160,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=trimbex&theme=nord&column=7&no-frame=true&margin-w=15" />
 </div>
 
-## 📌 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Trimbex/Hello-Kitchen">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=trimbex&repo=Hello-Kitchen&theme=tokyonight&hide_border=true" />
-  </a>
-  <!-- Add more featured projects as needed -->
-</div>
 
 ## 🔗 Connect with me
 <p align="center">
