@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Saif;Software+Engineer;AI+Enthusiast;Full-Stack+Developer;Hardware+Hacker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Saif;Software+Engineer;AI+Enthusiast;Full-Stack+Developer;Hardware+Hacker" alt="Typing SVG" />
   </a>
   
   <p>
@@ -17,10 +17,10 @@
     <img src="https://komarev.com/ghpvc/?username=trimbex&label=Profile%20Views&color=0e75b6&style=flat" alt="visitors" />
   </p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Saif%20Hatem&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Bridging%20Software%20and%20Hardware%20Worlds&descAlignY=55" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Saif%20Hatem&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=55" width="100%">
 
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,java,mongodb,tensorflow" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp,java,mongodb,tensorflow,aws,docker" alt="Skills" />
   </a>
 </div>
 
@@ -109,22 +109,43 @@
 ## 📌 Featured Projects 
 
 <div align="center">
-  <a href="#">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Trimbex&repo=funds-haven&theme=react&border_color=61dafb&border_radius=10" alt="Funds Haven" />
-  </a>
-  <a href="#">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Trimbex&repo=DHCP-Server&theme=react&border_color=61dafb&border_radius=10" alt="DHCP Server" />
-  </a>
-<a href="https://github.com/Trimbex/Gen-AI-Powered-AR-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trimbex&repo=Gen-AI-Powered-AR-App&theme=react&border_color=61dafb&border_radius=10" alt="Gen-AI Powered AR App" />
-</a>
-
-  <a href="#">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Trimbex&repo=Internet-Cafe&theme=react&border_color=61dafb&border_radius=10" alt="Internet Cafe" />
-  </a>
+  <table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Trimbex/funds-haven">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Trimbex&repo=funds-haven&theme=tokyonight&border_color=61dafb&border_radius=10" alt="Funds Haven" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Trimbex/Trimbex/output/github-contribution-grid-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Trimbex/Trimbex/output/github-contribution-grid-snake.svg" />
+          <img alt="github-snake" src="https://raw.githubusercontent.com/Trimbex/Trimbex/output/github-contribution-grid-snake.svg" />
+        </picture>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Trimbex/DHCP-Server">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Trimbex&repo=DHCP-Server&theme=tokyonight&border_color=61dafb&border_radius=10" alt="DHCP Server" />
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Trimbex/Trimbex/assets/github-contribution-grid-snake-dark.svg" />
+          <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Trimbex/Trimbex/assets/github-contribution-grid-snake.svg" />
+          <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Trimbex/Trimbex/assets/github-contribution-grid-snake.svg" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Trimbex/Gen-AI-Powered-AR-App">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Trimbex&repo=Gen-AI-Powered-AR-App&theme=tokyonight&border_color=61dafb&border_radius=10" alt="Gen-AI Powered AR App" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Trimbex/Internet-Cafe">
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Trimbex&repo=Internet-Cafe&theme=tokyonight&border_color=61dafb&border_radius=10" alt="Internet Cafe" />
+      </a>
+    </td>
+  </tr>
+  </table>
 </div>
-
-<br/>
 
 ## 🚀 Tech Stack
 
@@ -196,6 +217,29 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWF6NnhrdXlqajB6M2x1Yzk0dnE2YmE2eXRzZXdkbWd4a29ja2dseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="450px" alt="Tech Animation">
+</div>
+
+
+
+
+## 👨‍💻 Coding Activity
+<table align="center">
+<tr>
+<td width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=trimbex&theme=tokyonight&hide_border=true&layout=compact&hide_title=true&langs_count=10" alt="WakaTime Stats" width="100%"/>
+</td>
+<td width="50%">
+  <div align="center">
+    <!-- Replaced with a GitHub-compatible static image -->
+    <img src="https://wakatime.com/share/@trimbex/last_30_days.png" height="300" alt="Languages Over Last 30 Days"/>
+    <!-- Alternative if you prefer SVG rendering on GitHub -->
+    <!-- <img src="https://wakatime.com/share/@trimbex/last_30_days.svg" height="300" alt="Languages Over Last 30 Days"/> -->
+  </div>
+</td>
+</tr>
+</table>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trimbex&theme=tokyonight" width="100%" />
 </div>
 
 ## 📊 GitHub Metrics
