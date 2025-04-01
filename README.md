@@ -76,7 +76,7 @@
 <tr>
 <td width="50%">
   <a href="https://github.com/Trimbex/funds-haven">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHRoejkzMWkwdGc3eXB4aXI1ZXQxeG13amdjZ2dhNDh1NHNyMmI2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cJFQJzZxFMhONxDTnt/giphy.gif" width="100%" alt="Finance App Preview"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjczdGk4NHNuNHJlazVkb2lqdncxczRsc2VwNjI4aGZjMXN4enN5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0w5iI0w7LifviL2bcC/giphy.gif" width="100%" alt="Finance App Preview"/>
   </a>
 </td>
 <td>
