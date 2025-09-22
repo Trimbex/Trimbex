@@ -1,22 +1,17 @@
-<h1 align="center">Hi 👋, I'm Saifeldin Mohamed Hatem</h1>
-<h3 align="center">Software Engineer</h3>
+# 👋 Hi, I'm Saif Hatem  
 
-<p align="center">
-  🌐 <a href="https://trimbex.netlify.app/" target="_blank">Visit My Portfolio</a>
-</p>
-
-<p align="left"> 
-  <a href="https://twitter.com/trimbex_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/trimbex_?logo=twitter&style=for-the-badge" alt="trimbex_" />
-  </a> 
-</p>
+I’m a fifth-year **Computer Engineering student at Ain Shams University** with a passion for **AI, web development, and cloud technologies**.  
+I enjoy building intelligent, end-to-end applications that combine modern web frameworks with machine learning models.  
+Always eager to learn, I explore new tools, solve coding challenges, and work on projects that push the limits of innovation.  
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **AI-powered Finance Management System**  
-- 🌱 I’m currently learning **Cloud and AI Agents**  
-- 👯 Let's connect on [LinkedIn](https://www.linkedin.com/in/saifhatem/)  
+## 👨‍💻 About Me
+- 🎓 Studying **Computer Engineering** at **Ain Shams University**  
+- 💻 Passionate about **AI, Web Development, and Cloud Technologies**  
+- 🔭 Currently building an **AI-powered Finance Management System**  
+- 🌱 Exploring **Cloud & AI Agents**  
+- 👯 Let’s connect on [LinkedIn](https://www.linkedin.com/in/saifhatem/)  
 - 📫 Reach me at **saifhatem02@gmail.com**  
 
 ---
