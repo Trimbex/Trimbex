@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Saif Hatem  
 
+<p align="center">
+  🌐 <a href="https://trimbex.netlify.app/" target="_blank">Visit My Portfolio</a>
+</p>
+
 I’m a fifth-year **Computer Engineering student at Ain Shams University** with a passion for **AI, web development, and cloud technologies**.  
 I enjoy building intelligent, end-to-end applications that combine modern web frameworks with machine learning models.  
 Always eager to learn, I explore new tools, solve coding challenges, and work on projects that push the limits of innovation.  
