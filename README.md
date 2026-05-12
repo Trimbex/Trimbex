@@ -1,8 +1,8 @@
 # 💫 About Me:
-🎓 Senior Software Engineering Student @ Ain Shams University<br>⚡ Passionate about System Design, Problem Solving, and Full-Stack Development<br>🚀 Interested in building scalable and impactful software solutions<br>✍️ I also write about system design on [Substack](#-writing).<br>📫 Reach out to me: saifhatem02@gmail.com
+🎓 Senior Software Engineering Student @ Ain Shams University<br>⚡ Passionate about System Design, Problem Solving, and Full-Stack Development<br>🚀 Interested in building scalable and impactful software solutions<br>✍️ I also write about system design on [Substack](#-writing).<br>🌐 Portfolio: [trimbex.netlify.app](https://trimbex.netlify.app/)<br>📫 Reach out to me: saifhatem02@gmail.com
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifhatem/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Trimbex/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifhatem02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saifhatem/) [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?logo=netlify&logoColor=00C7B7)](https://trimbex.netlify.app/) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Trimbex/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saifhatem02@gmail.com)
 
 ## ✍️ Writing:
 I write about system design, software engineering, and building scalable systems on Substack.<br>
